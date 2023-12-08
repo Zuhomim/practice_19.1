@@ -1,0 +1,5 @@
+pip~=23.3.1
+attrs~=22.2.0
+wheel~=0.41.3
+setuptools~=68.2.2
+packaging~=23.0
